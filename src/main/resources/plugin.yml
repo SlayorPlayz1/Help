@@ -1,0 +1,27 @@
+name: ServerAddons
+version: 1.0.0
+main: eee.eee.SABans
+api-version: 1.15
+load: STARTUP
+commands:
+  serveraddons:
+    usage:
+    aliases: [sa]
+  fly:
+  tpall:
+  kick:
+  gmc:
+  gms:
+  gma:
+  discord:
+  chatmsgs:
+  helpme:
+  idk:
+  gg:
+  oof:
+  no:
+  yes:
+  relog:
+  ban:
+  unban:
+
